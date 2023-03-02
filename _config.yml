@@ -1,0 +1,3 @@
+deploy:
+type: git repository: https: //github.com/amimibear/puzhen.wang.git
+branch: gh-pages
